@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: Cal
-  description: Cal's World!
+  name: default-team
+  description: Default Team
 spec:
   type: team
   profile:
-    displayName: Team Cal
+    displayName: Default Team
     email: team-a@example.com
     picture: https://avatars.dicebear.com/api/identicon/team-a@example.com.svg?background=%23fff&margin=25
   parent: default-org

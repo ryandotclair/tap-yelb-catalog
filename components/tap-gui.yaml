@@ -11,5 +11,5 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: Cal
+  owner: default-team
   system: tap-gui
